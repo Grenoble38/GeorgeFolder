@@ -1,8 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Titre</title>
+    </head>
+    <body>  
+   
 <h> This is my list of lists ! </h>
 <br>
-exemple définition
-<dl>
-<dt>terme à définir</dt>
-<dd>explication du terme à définir</dd>
+Exemple définition
+  <dl>
+< dt>terme à définir</dt>
+  <dd>explication du terme à définir</dd>
 </dl>
 </br>
+
+<p>Cryptids of Cornwall:</p>
+
+<dl>
+    <dt>Beast of Bodmin</dt>
+    <dd>A large feline inhabiting Bodmin Moor.</dd>
+
+    <dt>Morgawr</dt>
+    <dd>A sea serpent.</dd>
+
+    <dt>Owlman</dt>
+    <dd>A giant owl-like creature.</dd>
+</dl>
+
+<p>Cryptids of Cornwall:</p>
+<ul>
+    <li>Milk</li>
+    <li>Cheese
+        <ul>
+            <li>Blue cheese</li>
+            <li>Feta</li>
+        </ul>
+    </li>
+</ul>
+<h1>Ordered List</h1>
+<ol>
+  <li>Mix flour, baking powder, sugar, and salt.</li>
+  <li>In another bowl, mix eggs, milk, and oil.</li>
+  <li>Stir both mixtures together.</li>
+  <li>Fill muffin tray 3/4 full.</li>
+  <li>Bake for 20 minutes.</li>
+</ol>
+
+
+ </body>
+</html>
