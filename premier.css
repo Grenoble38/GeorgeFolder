@@ -1,4 +1,4 @@
-a header{
+header a{
   color: green;
 }
 
@@ -7,7 +7,7 @@ a header{
   color: orange;
 }
 
-#paragraph {
+.paragraph {
   color: blue;
 }
 
