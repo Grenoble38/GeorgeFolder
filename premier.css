@@ -2,6 +2,10 @@ header a{
   color: green;
 }
 
+a:link {
+  text-decoration: none;
+}
+
 .nav
 {
   color: orange;
