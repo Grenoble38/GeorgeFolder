@@ -6,9 +6,13 @@ a:link {
   text-decoration: none;
 }
 
-.nav
+# navigation
 {
   color: orange;
+}
+
+a:link {
+  color: red;
 }
 
 .paragraph {
