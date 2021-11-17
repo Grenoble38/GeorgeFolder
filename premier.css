@@ -31,3 +31,8 @@ section article img {
 footer p {
   font-size:12px;
 }
+
+
+.bulletless {
+   list-style-type: none;
+}
