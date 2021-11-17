@@ -53,6 +53,14 @@ section article img {
   width: 30%;
 }
 
+section article h2 {
+  font: doublespace;
+  font-size: 12px;
+  font-family: arial;
+
+}
+
+
 footer p {
   font-size:12px;
 }
