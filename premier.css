@@ -50,6 +50,7 @@ section article img {
   position: relative;
   top: 0px; right: 0px;
   margin:20px;
+  width: 30%;
 }
 
 footer p {
