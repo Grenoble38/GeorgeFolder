@@ -56,8 +56,8 @@ nav a {
   color: red;
 }
 
-section article p {
- border-top-style: 2px dotted black;  
+article p {
+ justify-content: space-evenly;  
 }
 
 section article img {
