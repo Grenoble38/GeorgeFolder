@@ -47,7 +47,9 @@ nav a {
 }
 
 section article img {
-  margin-top:20px;
+  position: relative;
+  top: 0px; right: 0px;
+  margin:20px;
 }
 
 footer p {
