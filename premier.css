@@ -1,1 +1,33 @@
+/*
+fichier css de base
+par Olivier Chambon
+dernière mise à jour 16/11/2021
+*/
 
+/* généraux */
+html {
+  margin:0px;
+  padding:0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* mutualisation */
+.vert {
+  color: green;
+}
+
+/* spécifiques */
+nav a {
+  color: red;
+}
+
+section article img {
+  margin-top:20px;
+}
+
+footer p {
+  font-size:12px;
+}
