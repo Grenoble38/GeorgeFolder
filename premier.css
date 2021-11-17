@@ -61,8 +61,7 @@ section article p {
 }
 
 section article img {
-  position: relative;
-  top: 0px; right: 0px;
+  float: right;
   margin:20px;
   width: 30%;
 }
