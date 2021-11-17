@@ -45,3 +45,8 @@ footer p {
 #idfooter2 {
   padding-left: 30px;
 }
+
+a section {
+  width: 50%;
+  text-align:center
+}
