@@ -37,10 +37,10 @@ section {
 }
 
 article h2 {
-@font-face {
+@font-face 
   font-family: Handwriting;
   src: url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
-} 
+
   font-style: italic;
   font-size: 30px;
   color: blue;
