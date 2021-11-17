@@ -39,9 +39,9 @@ footer p {
 
 
 # idfooter1 {
-  20px left
+  padding-left: 20px;
 } 
 
 # idfooter2 {
-  30px left
+  padding-left: 30px;
 }
