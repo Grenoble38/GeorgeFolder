@@ -36,6 +36,15 @@ section {
   margin-right: auto;
 }
 
+article h2 {
+@font-face {
+  font-family: serif;
+  src: url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+} 
+  font-size: 30px;
+  color: blue;
+}
+
 /* mutualisation */
 .vert {
   color: green;
@@ -55,18 +64,6 @@ section article img {
   top: 0px; right: 0px;
   margin:20px;
   width: 30%;
-}
-
-
-
-section article h2 {
-  font-family: serif;
-  <style>
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
-</style> 
-  font-size: 30px;
-  color: blue;
-
 }
 
 
