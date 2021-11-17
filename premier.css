@@ -38,8 +38,8 @@ section {
 
 article h2 {
 @font-face {
-  font-family: serif;
-  src: url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+  font-family: written;
+  src: url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
 } 
   font-style: italic;
   font-size: 100px;
